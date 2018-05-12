@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
     - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23098#La-Femme-Abb-
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
