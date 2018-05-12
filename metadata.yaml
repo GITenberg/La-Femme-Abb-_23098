@@ -1,0 +1,33 @@
+_repo: La-Femme-Abb-_23098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maréchal, Sylvain
+    aliases:
+    - Marechal, Sylvain
+    - Maréchal, Pierre Sylvain
+    birthdate: 1750
+    deathdate: 1803
+    gutenberg_agent_id: '25676'
+    url: http://www.gutenberg.org/2009/agents/25676
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
+    - http://en.wikipedia.org/wiki/Sylvain_Mar%C3%A9chal
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23098'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: La Femme Abbé
+url: http://www.gutenberg.org/ebooks/23098
